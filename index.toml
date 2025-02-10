@@ -9,6 +9,11 @@ file = "README.md"
 hash = "98ce341c0f102d33b9d32152784b0bc7091404ed5018b6c592123746f3b88480"
 
 [[files]]
+file = "mods/bedspreads.pw.toml"
+hash = "08cf1001a18273f954f50c2d58f9303f1812df34bb6c381c8c4def79c40699a7"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "c7bdec4b71960d375ae66cd02bf550531d386aa58c207cf39b5a26d5d3574f09"
 metafile = true
