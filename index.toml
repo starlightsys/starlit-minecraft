@@ -9,6 +9,11 @@ file = "README.md"
 hash = "98ce341c0f102d33b9d32152784b0bc7091404ed5018b6c592123746f3b88480"
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "671d9bd7908e43496170656a6c05da60e7867445d2910676bace6f29c5d25bc2"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "5d1a39092543a20c5fec0ef3272455d0c2c845db4903f90bc9cfd28fbef81969"
 metafile = true
