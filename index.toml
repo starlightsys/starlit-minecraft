@@ -124,6 +124,11 @@ hash = "65e3f9e4ed2efbcf51d469c775cbf31a16c7117028730b8d891c21f0cd9acde4"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "738a9ff73992d4ced2f720ab28a6179b467a89e77cfebe175403a7816ac9e89b"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
