@@ -19,6 +19,11 @@ hash = "38ea2676136952bde1c1653e2a432fdbae0cb71c6be093488d7d2a375bfecc0a"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "d9d4a7d44e572da878625691f049ad0e2877e9d75fb0863fdea866ea9a739b62"
 metafile = true
