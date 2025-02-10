@@ -9,6 +9,16 @@ file = "README.md"
 hash = "98ce341c0f102d33b9d32152784b0bc7091404ed5018b6c592123746f3b88480"
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "38ea2676136952bde1c1653e2a432fdbae0cb71c6be093488d7d2a375bfecc0a"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "d9d4a7d44e572da878625691f049ad0e2877e9d75fb0863fdea866ea9a739b62"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "671d9bd7908e43496170656a6c05da60e7867445d2910676bace6f29c5d25bc2"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Mantle"
+filename = "Mantle-1.20.1-1.11.36.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cg6Uc79H/versions/rwGfUxbm/Mantle-1.20.1-1.11.36.jar"
+hash-format = "sha512"
+hash = "139cb32af45600fc4986ff3555b4e7bb213e6816c5433b66b30a183aa07a9af714add1bb78494669e08bcb3cadbb875953d691f0c073b4d2dc61b65cc409394c"
+
+[update]
+[update.modrinth]
+mod-id = "Cg6Uc79H"
+version = "rwGfUxbm"

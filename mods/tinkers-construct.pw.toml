@@ -1,0 +1,13 @@
+name = "Tinkers' Construct"
+filename = "TConstruct-1.20.1-3.9.1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rxIIYO6c/versions/IFTo0ry1/TConstruct-1.20.1-3.9.1.19.jar"
+hash-format = "sha512"
+hash = "7c558e89a7109c25e61d7495e2c169522d174764f9872bbf86eaa73c4faf75f4353e47bc0848f43b811dadb586c5687c0eadbd39a479f51d3e389e00897e292b"
+
+[update]
+[update.modrinth]
+mod-id = "rxIIYO6c"
+version = "IFTo0ry1"
