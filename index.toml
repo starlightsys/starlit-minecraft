@@ -39,6 +39,11 @@ hash = "c6266e6abc3eb46a62db3d106a915c78d8bd40502e45c23c729bad7e21de1141"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "a0f2e11e55aa98b13ca469e8cee71d38a16a2ed0fba99b95fb0664adfc93e838"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
 metafile = true
@@ -51,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "6bcbe0a5adf88912c5ef6126cb30e20f508f8c173fb0a8baf3a62e610f33a4e6"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "7a3e7fef9090fc582ae46efab72acbf10b9c37030fe7faec42dab4e26917d55e"
 metafile = true
 
 [[files]]
