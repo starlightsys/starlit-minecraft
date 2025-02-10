@@ -34,6 +34,11 @@ hash = "7ebfb737cf7bc520cdfd207892af2d7e399d69f83500042a8860084a2726a32f"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "7be99a69a88cf54cce9af7e88509fc3a93e4e59e4c670c66952f16531bdf1c8e"
 metafile = true
@@ -51,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "816765c1d1efd28ee1046b8b515e3e4f0ea9551e81b44f059714bc6c93e7779d"
 metafile = true
 
 [[files]]
