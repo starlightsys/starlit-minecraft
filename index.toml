@@ -94,6 +94,11 @@ hash = "d9d4a7d44e572da878625691f049ad0e2877e9d75fb0863fdea866ea9a739b62"
 metafile = true
 
 [[files]]
+file = "mods/what-the-bucket.pw.toml"
+hash = "e5d0c7ab07e2044f4d685f7305c8c44f8f7c16524deae6f268fb73335a7d68e6"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "671d9bd7908e43496170656a6c05da60e7867445d2910676bace6f29c5d25bc2"
 metafile = true
