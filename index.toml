@@ -69,6 +69,11 @@ hash = "3d5d71177f4b6fe0615e638dbbbbfae2b41cd44c128c65e0a2139eb5e9236165"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
@@ -91,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "dbb83ae72868c1d9a3b4c2a32b7f083348ee427ecffc4b149010f7eca7c310c5"
 metafile = true
 
 [[files]]
