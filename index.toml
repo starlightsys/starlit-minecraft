@@ -9,6 +9,11 @@ file = "README.md"
 hash = "98ce341c0f102d33b9d32152784b0bc7091404ed5018b6c592123746f3b88480"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "5dd3823b0b4160a5f6f9199bdc5be179897c2b0afd0059f52496793687182b70"
+metafile = true
+
+[[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "08cf1001a18273f954f50c2d58f9303f1812df34bb6c381c8c4def79c40699a7"
 metafile = true
@@ -31,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/cobweb.pw.toml"
 hash = "c6266e6abc3eb46a62db3d106a915c78d8bd40502e45c23c729bad7e21de1141"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
 metafile = true
 
 [[files]]
