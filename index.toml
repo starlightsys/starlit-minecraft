@@ -9,6 +9,11 @@ file = "README.md"
 hash = "98ce341c0f102d33b9d32152784b0bc7091404ed5018b6c592123746f3b88480"
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "c7bdec4b71960d375ae66cd02bf550531d386aa58c207cf39b5a26d5d3574f09"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
@@ -36,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
