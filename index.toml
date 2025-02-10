@@ -24,6 +24,11 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "c6266e6abc3eb46a62db3d106a915c78d8bd40502e45c23c729bad7e21de1141"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
 metafile = true
@@ -41,6 +46,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "3d5d71177f4b6fe0615e638dbbbbfae2b41cd44c128c65e0a2139eb5e9236165"
 metafile = true
 
 [[files]]
