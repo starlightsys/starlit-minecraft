@@ -7,3 +7,8 @@ hash = "ef2c78d9f2e6bc00cc5b50b892b85bd90f85a606c98ba9d5d188940d1b5e1e99"
 [[files]]
 file = "README.md"
 hash = "98ce341c0f102d33b9d32152784b0bc7091404ed5018b6c592123746f3b88480"
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5d1a39092543a20c5fec0ef3272455d0c2c845db4903f90bc9cfd28fbef81969"
+metafile = true
