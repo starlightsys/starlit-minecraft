@@ -119,6 +119,11 @@ hash = "38ea2676136952bde1c1653e2a432fdbae0cb71c6be093488d7d2a375bfecc0a"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "311e6ff7804f35deac9b3bd48bba8708590f1d8b6648048e7a021b4c5583d3fc"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
