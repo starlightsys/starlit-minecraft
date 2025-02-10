@@ -124,6 +124,11 @@ hash = "816765c1d1efd28ee1046b8b515e3e4f0ea9551e81b44f059714bc6c93e7779d"
 metafile = true
 
 [[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "a6159b0deb77133a0050a7029da62f43f8ba0f3ccf0fc1438f8b1f30b3c625d0"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "df6dda6b692babaa40593c100ddf5055a726574b14037e7c03f3618c69230551"
 metafile = true
