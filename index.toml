@@ -74,6 +74,11 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "6cd5dcc7f8be470d2b9be207783db249235cd8536b4cf0f923c86124b387848a"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "3d5d71177f4b6fe0615e638dbbbbfae2b41cd44c128c65e0a2139eb5e9236165"
 metafile = true
