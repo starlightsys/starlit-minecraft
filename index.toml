@@ -94,6 +94,11 @@ hash = "3d5d71177f4b6fe0615e638dbbbbfae2b41cd44c128c65e0a2139eb5e9236165"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
 metafile = true
