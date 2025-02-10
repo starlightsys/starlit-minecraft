@@ -154,6 +154,11 @@ hash = "d9d4a7d44e572da878625691f049ad0e2877e9d75fb0863fdea866ea9a739b62"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "0f532c69e22dfbfd96d83e5ad4decb7bd498f7c674a4cc825e08856712d9be90"
+metafile = true
+
+[[files]]
 file = "mods/what-the-bucket.pw.toml"
 hash = "e5d0c7ab07e2044f4d685f7305c8c44f8f7c16524deae6f268fb73335a7d68e6"
 metafile = true
