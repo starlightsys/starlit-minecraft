@@ -9,6 +9,11 @@ file = "README.md"
 hash = "98ce341c0f102d33b9d32152784b0bc7091404ed5018b6c592123746f3b88480"
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "38ea2676136952bde1c1653e2a432fdbae0cb71c6be093488d7d2a375bfecc0a"
 metafile = true
