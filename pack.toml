@@ -1,13 +1,13 @@
 name = "Starlit Minecraft"
-author = "starlight"
-version = "1.0.0"
+author = "starlightsys"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "364864a66c08a4b57ce9cd610ebe6653fb25a1d412eaa11537bc935801d24c41"
+hash = "248d5c922ca2fd54bbf6e7edb64c74d19ef36fc44f9f31c541e3590caa0eea0b"
 
 [versions]
-forge = "47.3.29"
+forge = "47.3.0"
 minecraft = "1.20.1"
