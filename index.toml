@@ -9,8 +9,12 @@ file = "README.md"
 hash = "98ce341c0f102d33b9d32152784b0bc7091404ed5018b6c592123746f3b88480"
 
 [[files]]
-file = "index.toml.old"
-hash = "364864a66c08a4b57ce9cd610ebe6653fb25a1d412eaa11537bc935801d24c41"
+file = "mod_list_curseforge.txt"
+hash = "f725b9239fb3dfc5e8ec8d806dfc607f76b0f2a875d4db502e2fef2c9173b29a"
+
+[[files]]
+file = "mod_list_modrinth.txt"
+hash = "315c00a6db4fc3f68a55521862e09cdf9a609176a481d0dd6197cdbf38e8df7b"
 
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
@@ -45,6 +49,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "c6266e6abc3eb46a62db3d106a915c78d8bd40502e45c23c729bad7e21de1141"
 metafile = true
 
 [[files]]
@@ -85,6 +94,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "44ed1443d47908e1a8b611e4d46adf8cd8b8d4a3291283c368141e1422e76467"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "3d5d71177f4b6fe0615e638dbbbbfae2b41cd44c128c65e0a2139eb5e9236165"
 metafile = true
 
 [[files]]
@@ -201,7 +215,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "34962f4137dce05c52b76fdaf49c50a13f35dcfc6ebaa830b4b4ae36568761b5"
 metafile = true
-
-[[files]]
-file = "pack.toml.old"
-hash = "58e2b28eff2b5a67583ecd07397b1a188bbd9a85db2da325dfb0bf257af73ec9"
