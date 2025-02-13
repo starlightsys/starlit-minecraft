@@ -1,12 +1,12 @@
 name = "Starlit Minecraft"
 author = "starlightsys"
-version = "2.1.2"
+version = "2.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "733142494d688c017b214cd4b267dd244118c49e17b0dc6e844d42f31c02b066"
+hash = "417ba6ada7fd0db4eacef9a852cae1c0f87765271a555de9182fc95cd24ec1b3"
 
 [versions]
 forge = "47.3.0"

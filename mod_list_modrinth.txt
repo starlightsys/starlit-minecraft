@@ -12,6 +12,7 @@ https://modrinth.com/mod/leaves-be-gone
 https://modrinth.com/mod/lmft
 https://modrinth.com/mod/lootr
 https://modrinth.com/mod/mana-and-artifice
+https://modrinth.com/mod/moonlight
 https://modrinth.com/mod/netherportalfix
 https://modrinth.com/mod/no-chat-reports
 https://modrinth.com/mod/no-telemetry
