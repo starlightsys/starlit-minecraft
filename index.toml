@@ -13,5 +13,195 @@ file = "index.toml.old"
 hash = "364864a66c08a4b57ce9cd610ebe6653fb25a1d412eaa11537bc935801d24c41"
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "933c86e510ff6257d52647e31dc07cda8c8955bc616c9c158dd65b74d2e45e98"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "98a5be921a2deb3830f9294b6acf55eb4b689f0c0c8904286448e62f43d3805c"
+metafile = true
+
+[[files]]
+file = "mods/bedspreads.pw.toml"
+hash = "f50e5f4a3a85bfd9f6fa5cbde6a798a0e664502eb357a3685b2df83a3eaaa942"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "36cd91134f317a29282716c0ccaf6c273d807dd5bfbbf45b3799937d0a72552d"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "5aded66fa72e7d3054f6ac495fe931cb727765cdf4ccff1e2ec148e7106c5353"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "251890ec4b0736e21d076a565b4c7a4d7d2b4ca46c45a388a662fd55f4f1c8db"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "26ac5097839dfbf2f567e8e441a7149d7cccbe3456449e904fb75614a3789bc8"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "b916a712a0697a6e62b2d2982f9ce1eeee081ab780465653e8c07d274a4b4826"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9ec365a4521884704ec5bf750c8eb56eb23fbfcf9e77e67d7ae613feb60a3c30"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "c8ea4b20eeab877e2fd374c36df5eb01f028629567b9e25ab8d25922490172d9"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "946467b566b9a6aefc65029b443bfcbf7cd72ac64bd2ea0c6fc47c6a36cae65b"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "91e0af4b9989dd9a706d43e32ad498184d9400646f89362877bae96c207b7b70"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "44ed1443d47908e1a8b611e4d46adf8cd8b8d4a3291283c368141e1422e76467"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1e1e2fa9039471b0fb31320d4627ebe221069cc50f6aa055e13ce363dc19b833"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "e0b3868f01ac63c79a851f6a89bb6f8e763c6fac5ceeb0f63373f1400acb5ca4"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "ee707f80f7f3bc8162719f23245ec51e8ecd732eaf75e11d1a6b42d6a83be2db"
+metafile = true
+
+[[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "48fdd34a0b0f1141259b394d5ff178606da8139a9ab5278d1afc8b1b905f7b70"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "76187bf757de5a47d00b02974389baa1158c1276fbeeb2206fe2ec8b89185b0f"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "da8adfd1a2ab5e050fc182940c9bf972cbcafdbb12e22fe8274ccf47c71e9899"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "d804911d47db895cbe9e1f61297f9daecbf730c1f372f1416f6e7a8018c4207f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "39f4971b06139614f03993ffc73e3a1d39e061813690eb1edffe2215c148ffa7"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4b156e5231ebc8aa2ca733dbd029d00be50d08fc219d60022020037b1c21e62f"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "94da1183e5cded15cfa4e6e9022538e47482ed3b0d8addedd437f789fd01a7ad"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "bdb82e60106867e222b060ecec3df3cb06b95e4de34bf61f7109f07dd20a1191"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "417e2e137ad9e5e92bd406636fed230dc7583f3b1f8d1652d190886baccfb440"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "7bf471e5ca1ddc651fe8cd2c1604782fec092adc28667b9be12d5105d5fb3f97"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "c1071379fec7707e33043351436e13ccb4bd7001083b24591920a10a73f642c6"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "1c158269e90f7d85e45afdad8d02b6ebd156967f7b14b049aa8a13417a6ec040"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "ead1a2730afdfe7053d17bfc0ffc543690f04447282e6df4d51f20ca384c92ac"
+metafile = true
+
+[[files]]
+file = "mods/what-the-bucket.pw.toml"
+hash = "3ecbee6ae4da5dd155965d2229c73846ce49426f2129b8f02199c594a9b1da51"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1cad26eb3f6a9ff781d71588904fc5e42da982f47dd59c6dc81fbaa5386873c8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "34962f4137dce05c52b76fdaf49c50a13f35dcfc6ebaa830b4b4ae36568761b5"
+metafile = true
+
+[[files]]
 file = "pack.toml.old"
 hash = "58e2b28eff2b5a67583ecd07397b1a188bbd9a85db2da325dfb0bf257af73ec9"

@@ -1,0 +1,13 @@
+name = "What The Bucket"
+filename = "WhatTheBucket-Forge-1.20.1-11.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zUxYvzMP/versions/n9A9h3kx/WhatTheBucket-Forge-1.20.1-11.0.3.jar"
+hash-format = "sha1"
+hash = "1286d84ab5eb434827dde080947f0fd9c0b60fc4"
+
+[update]
+[update.modrinth]
+mod-id = "zUxYvzMP"
+version = "n9A9h3kx"

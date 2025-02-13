@@ -1,0 +1,13 @@
+name = "Botania"
+filename = "Botania-1.20.1-447-FORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/ucCteATJ/Botania-1.20.1-447-FORGE.jar"
+hash-format = "sha1"
+hash = "07afee866afb1ece0bebf2b5651e9e2309e3061b"
+
+[update]
+[update.modrinth]
+mod-id = "pfjLUfGv"
+version = "ucCteATJ"
